@@ -12,6 +12,7 @@ yfinance = "^0.1.87"
 loguru = "^0.6.0"
 bt = "^0.2.9"
 QuantStats = "^0.0.59"
+pdfkit = "^1.0.0"
 
 [tool.poetry.dev-dependencies]
 
